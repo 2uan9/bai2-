@@ -1,0 +1,49 @@
+{
+  "project_info": {
+    "project_number": "286992614368",
+    "firebase_url": "https://quang-b1981-default-rtdb.firebaseio.com",
+    "project_id": "quang-b1981",
+    "storage_bucket": "quang-b1981.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:286992614368:android:d27d96274dc110776c2185",
+        "android_client_info": {
+          "package_name": "com.example.bai2"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCGH3iNMcwgj87zGIU6KGMLil3vfAkFNZo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:286992614368:android:3313cfd6b97192026c2185",
+        "android_client_info": {
+          "package_name": "com.example.baitapthaycop"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCGH3iNMcwgj87zGIU6KGMLil3vfAkFNZo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
